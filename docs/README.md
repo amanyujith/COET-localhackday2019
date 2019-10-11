@@ -1,4 +1,4 @@
 # Annlee - [AnnleeFores](https://github.com/AnnleeFores)
 # Thejaswi - [Thejaswi-P](https://github.com/Thejaswi-P)
-# Somebody - [Somebody](www.somebody.com)
-#Amanyujith Raj  -[Amanyu](github.com/amanyujith)
+
+# Amanyujith Raj  -[A J R ](github.com/amanyujith)
