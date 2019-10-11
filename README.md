@@ -19,3 +19,4 @@ To join to the list of contributors you just need to do this simple steps:
 
 Add your projects under the project folder.
 Projects are ready
+Done 
